@@ -1,0 +1,8 @@
+F:\_Source\_c#\key preview\key preview\bin\Release\key preview.exe
+F:\_Source\_c#\key preview\key preview\bin\Release\key preview.pdb
+F:\_Source\_c#\key preview\key preview\obj\Release\key preview.csprojResolveAssemblyReference.cache
+F:\_Source\_c#\key preview\key preview\obj\Release\key_preview.Form1.resources
+F:\_Source\_c#\key preview\key preview\obj\Release\key_preview.Properties.Resources.resources
+F:\_Source\_c#\key preview\key preview\obj\Release\key preview.csproj.GenerateResource.Cache
+F:\_Source\_c#\key preview\key preview\obj\Release\key preview.exe
+F:\_Source\_c#\key preview\key preview\obj\Release\key preview.pdb
